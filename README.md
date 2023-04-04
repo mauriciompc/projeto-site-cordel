@@ -3,6 +3,6 @@
 
 Neste site de estudo, as imagens são estáticas em relação ao rolamento da página.
 
-(Acesse aqui)[https://mauriciompc.github.io/site-cordel/] e veja como ficou
+<a "https://mauriciompc.github.io/site-cordel/">Acesse aqui e veja como ficou></a>
 
 https://mauriciompc.github.io/site-cordel/
