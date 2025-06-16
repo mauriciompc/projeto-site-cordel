@@ -10,4 +10,4 @@ Site project related to a cordel by Milton Duarte.
 
 In this study site, the images are static in relation to the scrolling of the page.
 
-<a href="https://mauriciompc.github.io/site-cordel/" "target=_blank">Access the site here and see how it turned out</a>
+<a href="https://mauriciompc.github.io/site-cordel/">Access the site here and see how it turned out</a>
