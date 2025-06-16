@@ -3,7 +3,7 @@
 
 Neste site de estudo, as imagens são estáticas em relação ao rolamento da página.
 
-<a href="https://mauriciompc.github.io/site-cordel/" target="_blank">Acesse o site aqui e veja como ficou</a>
+<a href="[https://mauriciompc.github.io/site-cordel/](https://mauriciompc.github.io/projeto-site-cordel/)" target="_blank">Acesse o site aqui e veja como ficou</a>
 
 # Cordel Site Project
 Site project related to a cordel by Milton Duarte.
